@@ -46,7 +46,7 @@ st.markdown("""
         margin-bottom: 2rem;
     }
 </style>
-""", unsafe_allow_html=False)
+""", unsafe_allow_html=True)
 
 # =============================================================================
 # HELPER FUNCTIONS
