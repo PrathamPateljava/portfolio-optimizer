@@ -4,4 +4,4 @@ scipy
 streamlit
 yfinance
 plotly
-altair
+altair<5
